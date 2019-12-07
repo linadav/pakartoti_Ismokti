@@ -2,6 +2,8 @@ public class carCar {
     private String model;
     private int count;
     private double price;
+    double price;
+    private int count;
 
     public carCar(String model, double price, int count) {
         this.model = model;
